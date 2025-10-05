@@ -6,7 +6,7 @@
     <title>SHOP IT</title>
 </head>
 <body>   
-<h1><i></i>SHOP IT</i></h1>
+<h1><i>SHOP IT</i></h1>
 <h3>WELCOM TO OUR STORE</h3>  
 <p>In Our store you can get multiples shoes pairs for men and womens OF every brands and best quality</p>
 <table border="1px">
