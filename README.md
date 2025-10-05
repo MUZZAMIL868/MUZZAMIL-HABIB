@@ -6,7 +6,7 @@
     <title>SHOP IT</title>
 </head>
 <body>   
-<h1><i>SHOP IT</i></h1>
+<h1><i></i>SHOP IT</i></h1>
 <h3>WELCOM TO OUR STORE</h3>  
 <p>In Our store you can get multiples shoes pairs for men and womens OF every brands and best quality</p>
 <table border="1px">
@@ -14,6 +14,8 @@
      <tr><th>Brands</th><td>BATA</td><td>NDURE</td><td>GUCCI</td></tr>
      <tr><td>MALE</td><td><a href="https://www.bata.com.pk/collections/men-collection">SHOES</a></td><td><a href="https://www.ndure.com/collections/men-sneakers-sports-shoes">SHOES</a></td><td><a href="https://www.gucci.com/us/en/ca/men/shoes-for-men-c-men-shoes">SHOES</a></td></tr>
      <tr><td>WOMEN</td><td><a href="https://www.bata.com.pk/collections/women-collection">SHOES</a></td><td><a href="https://www.ndure.com/collections/women-sandals-all-products">SHOES</a></td><td><a href="https://www.gucci.com/us/en/ca/women/handbags-c-women-handbags">BAGS</a></td></tr>
+
+    </thead>
 </table>    
 <img src="https://my-test-11.slatic.net/p/38972f49ce3e4e7ee336f54ab01eb544.jpg_800x800q100.jpg" alt="" srcset="" width="1800" >
 </body>
